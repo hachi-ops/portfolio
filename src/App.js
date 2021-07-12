@@ -1,5 +1,6 @@
 import React from "react";
-import Header from "./components/Header";
+import Header from "./components/Header/header";
+// import Projects from "./components/Projects/projects";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
   <div>
   <Header />
+  {/* <Projects /> */}
   </div>
   );
 }
