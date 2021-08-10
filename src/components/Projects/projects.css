@@ -33,8 +33,9 @@ box-shadow: 20px 20px 68px #888888;
 padding: 20px;
 }
 .portfolio-img-background{
-    height: 300px;
+    background-image: url('//images/screencapture-englishtreeonline.png');
     width: 100%;
+    height: 300px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -49,16 +50,16 @@ padding: 20px;
     align-items: center;
     height: 100%;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
-/* .logo-wrapper img{
+.logo-wrapper img{
     display: block;
     max-width: 100%;
     height: auto;
 
-} */
+}
 
 .logo-wrapper img{
     width: 150px;
